@@ -4,6 +4,8 @@ _(Transforming Safety with Real-Time Firearm Detection)_
 ## Introduction 🌟
 Welcome to SafeGuard AI, an award-winning software solution that addresses a critical issue in today's society: firearm detection in real-time using computer vision. Our solution integrates seamlessly with existing camera systems to provide a 1ms response time for detecting firearms, ensuring immediate alerts and reactions to safeguard lives. 
 
+Team Members: John Dong, Huy Dao, Gavin Garcia, Ritchie Martinez, Enrique De La Torre 
+
 ## Project Overview 🛠️
 ### Problem Statement ❗
 In 2023 alone, the U.S. experienced 82 school shootings, with less than 1% of surveillance footage actively monitored 24/7. SafeGuard AI is designed to fill this critical gap in security.
